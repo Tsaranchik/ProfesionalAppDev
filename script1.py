@@ -1,1 +1,5 @@
-print("Hello from cloned repo!")
+def greet(name):
+    print(f"Hello, {name}!")
+
+greet("from cloned repo!")
+
