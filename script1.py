@@ -1,5 +1,5 @@
 import random
-list = random.sample(range(0, 101), 10)
+list = random.sample(range(0, 1001), 20)
 print(list)
 print(max(list))
 print("Goodbye!")
